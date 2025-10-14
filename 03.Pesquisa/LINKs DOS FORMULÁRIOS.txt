@@ -1,4 +1,6 @@
 - PESQUISA COMPRADOR DO SOFTWARE
+A partir da pesquisa do usuário, montaremos uma apresentação para possível comprador do software.
+
 https://forms.office.com/r/n1Dt0Hdmat
 
 - PESQUISA USUÁRIO DO SOFTWARE
